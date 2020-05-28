@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Derivado de "Desafío "Periodico""</title>
+
+        <style>
+            body{
+                font-family:sans-serif;
+            }
+                
+            
+            h1 {
+               
+            
+                font-family: sans-serif;
+                color:white;
+                background-color:salmon;
+                
+            }
+            
+            #pic {
+                float: left;
+            width: 30%;
+            margin-right: 10px;
+            }
+            #site {
+                background: rgb(219, 223, 255);
+                float: right;
+            width: 30%;
+            margin-left: 10px;
+            }
+        </style>
+    </head>
+    <body>
+    
+        <h1><center>Periodico</center></h1>
+
+        <img id="pic" src="https://www.kasandbox.org/programming-images/landscapes/waterfall_niagara-falls.png">
+        
+        
+        <div id="site">
+             <p><a href="https://www.ecoticias.com/medio-ambiente/202089/Transicion-ecologica-reconstruccion-economica-Espana">Tomado de econoticias.com</a>
+            </p>
+        </div>
+        
+        <p>La vicepresidenta cuarta y ministra para la Transición Ecológica y el Reto Demográfico, Teresa Ribera, ha comparecido hoy, a petición propia, en la Comisión de Transición Ecológica del Congreso de los Diputados.Durante su comparecencia, Teresa Ribera ha repasado las medidas sociales, económicas y sanitarias puestas en marcha por el Gobierno, y en concreto aquellas iniciativas trasversales y específicas adoptadas por el Ministerio para la Transición Ecológica y el Reto Demográfico (MITECO), que han pivotado sobre tres grandes ejes: proteger a las personas, especialmente a los colectivos más vulnerables, apoyar a los autónomos y al tejido empresarial, y mitigar el impacto en los operadores energéticos.
+
+Transición ecológica para la reconstrucción económica de España
+Estas medidas han garantizado en todo momento la seguridad de suministro del sistema energético español reforzando su condición de servicio esencial durante el estado de alarma. 
+
+El escudo social y económico puesto en marcha para mitigar el impacto de la pandemia originada por el COVID-19 vendrá acompañado de un plan de recuperación. En ese sentido, la vicepresidenta ha defendido el papel crucial de la transición ecológica en el proceso de reconstrucción europeo tras la crisis del COVID-19 y la importancia de desarrollar un Plan Europeo de Reconstrucción valiente y ambicioso, dotado de un fondo que financie prioritariamente inversiones que contribuyan a la transición ecológica y digital y que priorice los esfuerzos en aquellos sectores que puedan generar más empleo y crecimiento sostenible</p>
+
+        
+        
+       
+        
+    </body>
+</html>
+    <body>
+
+
+    </body>
